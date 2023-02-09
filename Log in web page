@@ -54,9 +54,7 @@
         <input type="password" placeholder="Enter Password"><br><br><br>
         <input type="checkbox"><label type="text" font-size="10px">Remember me</label><pre>  <b><a href="#forget password">Forget Password</a><br><br></pre></b>
         <button type="submit">Login</button>
-        
-          
-    </div>
+     </div>
 </body>
 </html>
 
